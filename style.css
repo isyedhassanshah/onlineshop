@@ -1,0 +1,57 @@
+*{  
+    margin: 0px;
+    padding: 0px;
+}
+#navbar{
+    height: 50px;
+    background-color: black;
+
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    text-decoration: none;
+    color: azure;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ #logo{
+    color: #f08804;
+    font-size: 25px;
+ }
+ #section1{
+    background-color: yellowgreen;
+    height: 200px;
+    width: 1000px;
+    margin-top: 100px;
+    margin-left: 200px;
+ }
+ #section2{
+    background-color: yellowgreen;
+    height: 200px;
+    width: 1000px;
+    margin-top: 100px;
+    margin-left: 200px;
+ }
+ #contact{
+    background-color: yellowgreen;
+    height: 600px;
+    width: 1000px;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-bottom: 100px
+ }
+ #about{
+    background-color: yellowgreen;
+    height: 600px;
+    width: 1000px;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-bottom: 100px
+
+ }
+ #image{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+ }
